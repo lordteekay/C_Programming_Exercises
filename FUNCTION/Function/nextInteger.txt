@@ -1,0 +1,4 @@
+The next interger is 7
+i added this number 3 to see what's going to happen to the code
+For clarity i needed this interger 34.
+Thanks
